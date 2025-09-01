@@ -38,14 +38,14 @@ The work includes **data cleaning, merging multiple queries, and creating report
 - Identified **Top 10 products contributing ~65% of revenue**.  
 - Highlighted regions underperforming up to **12% below target**.  
 
-📸 **Sample Dashboard – Customer Performance**  
+📸 **Sample Report – Customer Performance**  
 ![Customer Performance Report](https://github.com/HarshaVallabuni/Sales-Finance-Analysis-Excel-Power-Query-Pivot-/blob/main/Customers%20Net%20Sales%20Performance.png)
 
-📸 **Sample Dashboard – Market vs Target**  
+📸 **Sample Report – Market vs Target**  
 ![Market vs Target Report](https://github.com/HarshaVallabuni/Sales-Finance-Analysis-Excel-Power-Query-Pivot-/blob/main/Market%20Performance%20vs%20Target.png
 )  
 
-📸 **Sample Dashboard – Top 10 Products**  
+📸 **Sample Report – Top 10 Products**  
 ![Top 10 Products](https://github.com/HarshaVallabuni/Sales-Finance-Analysis-Excel-Power-Query-Pivot-/blob/main/Top%2010%20Products.png
 )  
 
@@ -74,11 +74,11 @@ The work includes **data cleaning, merging multiple queries, and creating report
 - Delivered consolidated P&L reports, improving reporting efficiency by **~4 hours per cycle**.  
 - Enabled management to benchmark financial results across years and months.  
 
-📸 **Sample Dashboard – P&L Report (Yearly)**  
+📸 **Sample Report – P&L Report (Yearly)**  
 ![P&L Report Yearly](https://github.com/HarshaVallabuni/Sales-Finance-Analysis-Excel-Power-Query-Pivot-/blob/main/P%26L%20Year.png
 )  
 
-📸 **Sample Dashboard – P&L Report (Monthly)**  
+📸 **Sample Report – P&L Report (Monthly)**  
 ![P&L Report Monthly](https://github.com/HarshaVallabuni/Sales-Finance-Analysis-Excel-Power-Query-Pivot-/blob/main/P%26L%20Month.png
 )  
 
