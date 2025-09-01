@@ -39,15 +39,14 @@ The work includes **data cleaning, merging multiple queries, and creating report
 - Highlighted regions underperforming up to **12% below target**.  
 
 📸 **Sample Dashboard – Customer Performance**  
-![Customer Performance Report](https://github.com/HarshaVallabuni/Sales-Finance-Analysis-Excel-Power-Query-Pivot-/blob/main/Customers%20Net%20Sales%20Performance.png,https://github.com/HarshaVallabuni/Sales-Finance-Analysis-Excel-Power-Query-Pivot-/blob/main/Customers%20Net%20Sales%20Performance%20(2).png
-)  
+![Customer Performance Report](https://github.com/HarshaVallabuni/Sales-Finance-Analysis-Excel-Power-Query-Pivot-/blob/main/Customers%20Net%20Sales%20Performance.png)
 
 📸 **Sample Dashboard – Market vs Target**  
-![Market vs Target Report]((https://github.com/HarshaVallabuni/Sales-Finance-Analysis-Excel-Power-Query-Pivot-/blob/main/Market%20Performance%20vs%20Target.png
-))  
+![Market vs Target Report](https://github.com/HarshaVallabuni/Sales-Finance-Analysis-Excel-Power-Query-Pivot-/blob/main/Market%20Performance%20vs%20Target.png
+)  
 
 📸 **Sample Dashboard – Top 10 Products**  
-![Top 10 Products](images/top10_products.png](https://github.com/HarshaVallabuni/Sales-Finance-Analysis-Excel-Power-Query-Pivot-/blob/main/Top%2010%20Products.png
+![Top 10 Products](https://github.com/HarshaVallabuni/Sales-Finance-Analysis-Excel-Power-Query-Pivot-/blob/main/Top%2010%20Products.png
 )  
 
 ---
